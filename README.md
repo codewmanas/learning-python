@@ -1,4 +1,4 @@
-# 🐍 Mastering Python  
+# 🐍 Learning Python  
 ![Python Banner](https://static.placementpreparation.io/cdn-cgi/image/metadata=keep/aptitude-images/aptitude/category/v2/png/python-mcq-desktop-banner.png)  
 
 Welcome to **Mastering Python**, a meticulously curated repository designed to take you from the basics of Python to advanced concepts in a step-by-step, structured manner. Whether you're just starting out or aiming to deepen your Python knowledge, this repository will be your guide on this exciting journey.
