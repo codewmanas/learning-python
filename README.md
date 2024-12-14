@@ -79,8 +79,8 @@ Here’s the roadmap of topics covered in this repository:
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/yourusername/Mastering-Python.git  
-   cd Mastering-Python  
+   git clone https://github.com/yourusername/Learning-Python.git  
+   cd Learning-Python  
    ```  
 
 2. **Explore the Topics**:  
